@@ -1,3 +1,5 @@
+![Muhammad Ariz](img/dazzle.png)
+
 ## HI IM MUHAMMAD ARIZ
 
 ##### About Me:
