@@ -1,7 +1,5 @@
 ![Muhammad Ariz](img/dazzle.png)
 
-## HI IM MUHAMMAD ARIZ
-
 ##### About Me:
 Informatics Engineering Student | Building useful things & breaking them (for science)<br>Currently exploring Python, JavaScript, C++, and Java<br>Based in Majalengka
 
@@ -16,6 +14,9 @@ Informatics Engineering Student | Building useful things & breaking them (for sc
 ##### Github Stat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arizzira&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://raw.githubusercontent.com/arizzira/arizzira/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=arizzira&icon=0&color=0)](https://visitcount.itsvg.in)
 
