@@ -1,7 +1,7 @@
 ![Muhammad Ariz](img/dazzle.png)
 
 ##### About Me:
-Informatics Engineering Student | Building useful things & breaking them (for science)<br>Currently exploring Python, JavaScript, C++, and Java<br>Based in Majalengka
+Informatics Engineering Student | Building useful things & breaking them (for science)<br>Currently exploring Python, JavaScript, C++, and Java<br>Based In Indonesia
 
 ##### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ariz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arizzira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad_Ariz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@arizzira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingforevryone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arizgg6@gmail.com) 
