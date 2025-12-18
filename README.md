@@ -13,12 +13,6 @@ Informatics Engineering Student | Building useful things & breaking them (for sc
 ##### Github Stat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arizzira&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arizzira/arizzira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arizzira/arizzira/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arizzira/arizzira/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 ###
 ---
