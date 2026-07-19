@@ -1,21 +1,28 @@
-![Muhammad Ariz](img/dazzle.png)
+<div align="center">
 
-##### About Me:
-Informatics Engineering Student | Building useful things & breaking them (for science)<br>Currently exploring Python, JavaScript, C++, and Java<br>Based In Indonesia
+  <!-- 1. BANNER ATAS -->
+  <img src="gif/banner.gif" alt="Collectioneur Header" width="900" />
 
-##### Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ariz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@arizzira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad_Ariz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@arizzira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingforevryone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arizgg6@gmail.com) 
+  <br><br>
 
-##### Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-##### Github Stat
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arizzira&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <!-- 2. BENTO GRID TENGAH -->
+  <div>
+    <!-- Kotak Kiri (Dibuat rata kiri biar kotak kanan bisa numpuk di sebelahnya) -->
+    <img src="gif/tengah-kiri.gif" alt="About Me" width="600" align="left" />
 
-###
-###
----
-[![](https://visitcount.itsvg.in/api?id=arizzira&icon=0&color=0)](https://visitcount.itsvg.in)
+    <!-- Kotak Kanan Atas -->
+    <img src="gif/tengah-kanan-atas.gif" alt="Tech Stack" width="280" />
+    
+    <br><br> <!-- Memberi jarak antara kotak kanan atas dan bawah -->
+    
+    <!-- Kotak Kanan Bawah -->
+    <img src="gif/tengah-kanan-bawah.gif" alt="Always Learn" width="280" />
+  </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- Reset posisi biar Footer gak ikut naik ke atas -->
+  <br clear="both"><br>
+
+  <!-- 3. FOOTER BAWAH -->
+  <img src="gif/footer.gif" alt="Footer About" width="900" />
+
+</div>
